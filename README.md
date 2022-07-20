@@ -4,4 +4,4 @@ Greetings!  My name is Aaron Howard and I wear two hats.  I am a Teaching Profes
 
 ![Gmail](https://img.shields.io/badge/ahoward1@fandm.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [![@doublearon83](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doublearon83)
 
-[![aaronfhoward.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://aaronfhoward.com) [![Ultiworld Disc Golf](https://img.shields.io/badge/Ultiworld%20Disc%20Golf-red.svg)](https://discgolf.ultiworld.com/author/ahoward/)
+[![aaronfhoward.com](https://img.shields.io/badge/aaronfhoward.com-black.svg)](http://aaronfhoward.com) [![Ultiworld Disc Golf](https://img.shields.io/badge/Ultiworld%20Disc%20Golf-red.svg)](https://discgolf.ultiworld.com/author/ahoward/)
